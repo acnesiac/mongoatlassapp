@@ -1,0 +1,8 @@
+{
+    "appId": "application-0-nrhgh",
+    "appUrl": "https://realm.mongodb.com/groups/6042ddaea62de87371e3e18c/apps/6440fd6eb8dcac419d867432",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://us-east-1.aws.realm.mongodb.com",
+    "dataApiBaseUrl": "https://us-east-1.aws.data.mongodb-api.com",
+    "dataSourceName": "mongodb-atlas"
+}
